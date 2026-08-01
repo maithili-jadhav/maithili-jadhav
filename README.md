@@ -54,10 +54,6 @@ B.Tech Artificial Intelligence & Data Science Student
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,arduino" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
 
 ### 🛠️ Tools & Platforms
 
