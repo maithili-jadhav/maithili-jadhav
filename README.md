@@ -45,6 +45,8 @@ B.Tech Artificial Intelligence & Data Science Student
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/Water_Flow_Sensor-00A8E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Solenoid_Valve-4CAF50?style=for-the-badge"/>
 </p>
 
 
