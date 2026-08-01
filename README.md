@@ -41,10 +41,10 @@ B.Tech Artificial Intelligence & Data Science Student
   <img src="https://skillicons.dev/icons?i=html,css,php" />
 </p>
 
-### ⚙️ Technologies
+### ⚙️ 🔧 Embedded Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 
