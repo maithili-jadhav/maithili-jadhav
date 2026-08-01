@@ -33,8 +33,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,c++,java,python,js" />
-</p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" /></p>
 
 ### 🌐 Web Technologies
 
@@ -52,8 +51,12 @@ B.Tech Artificial Intelligence & Data Science Student
 ### ⚙️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,xampp,firebase" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,arduino" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -65,8 +68,8 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 📊 Data & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ## 🚀 Featured Projects
