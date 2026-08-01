@@ -73,7 +73,7 @@ Arduino Uno | Solenoid Valve | Water Flow Sensor
 
 - Implemented real-time location tracking and interactive map navigation.
 
-#### 🛠️ Technologies Used
+#### 🛠️ Technologies:
 
 **📱 Android Development**
 
@@ -147,5 +147,5 @@ Google Maps API | GPS | Location Services
 
 <p align="center">
 
-###  Building skills through curiosity and consistency. 
+###  Building skills through curiosity and consistency 🚀.
 </p>
