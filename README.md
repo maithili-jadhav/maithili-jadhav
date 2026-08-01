@@ -86,11 +86,6 @@ Google Maps API | GPS | Location Services
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maithili-jadhav&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maithili-jadhav&layout=compact&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=maithili-jadhav&theme=default" height="170"/>
 </p>
 
