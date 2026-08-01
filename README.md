@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name1.png" width="100%" />
+  <img src="name1.png" width="100%" alt="Maithili Jadhav Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Maithili Jadhav</h1>
@@ -7,44 +7,55 @@
 <h3 align="center">
 B.Tech Artificial Intelligence & Data Science Student
 </h3>
-# Hi 👋, I'm Maithili Jadhav
 
-### Artificial Intelligence & Data Science Student | Technology Enthusiast | Exploring Data Analytics & AI
+<p align="center">
+💻 Technology Enthusiast • 📊 Exploring Data Analytics • 🤖 Artificial Intelligence
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Student in Artificial Intelligence & Data Science
+🎓 B.Tech Student in **Artificial Intelligence & Data Science**
 
-💻 Interested in Data Analytics, Artificial Intelligence, Machine Learning and Software Development
+💻 Interested in **Artificial Intelligence, Data Analytics, Machine Learning & Software Development**
 
-🚀 Passionate about learning new technologies and building practical projects
+🚀 Passionate about building practical technology solutions
 
-📚 Continuously exploring programming, data analysis and AI concepts
+📚 Continuously learning through academics and personal projects
 
-🌱 Always eager to learn and improve my technical skills
+🌱 Always exploring new tools and technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-- Python
-- SQL
-- JavaScript
 
-### Data Analytics & AI
-- Power BI
-- Machine Learning (Basics)
-- Data Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+</p>
 
 ### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=jupyter" />
+</p>
 
 ---
 
@@ -54,11 +65,45 @@ B.Tech Artificial Intelligence & Data Science Student
 
 - Developed an IoT-based smart water distribution and monitoring system.
 - Implemented real-time monitoring for efficient water management.
-- Worked with ESP32, web technologies and IoT concepts.
+- Built using IoT and web technologies.
 
-**Technologies Used**
+**Technologies**
 
-ESP32 • JavaScript • HTML • CSS • IoT
+`ESP32` • `JavaScript` • `HTML` • `CSS` • `Firebase`
+
+---
+
+### 📊 Power BI Dashboards
+
+- Interactive dashboards
+- Data visualization
+- Business insights
+
+---
+
+### 🐍 Python & SQL Projects
+
+- Python programming
+- SQL queries
+- Data analysis practice
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maithili-jadhav&show_icons=true&theme=default"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-jadhav&layout=compact&theme=default"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maithili-jadhav&theme=default"/>
+
+</p>
 
 ---
 
@@ -66,32 +111,56 @@ ESP32 • JavaScript • HTML • CSS • IoT
 
 ✨ Pursuing B.Tech in Artificial Intelligence & Data Science
 
-✨ Building practical programming and IoT projects
+✨ Building IoT and programming projects
 
-✨ Exploring Data Analytics and Artificial Intelligence
+✨ Learning Python, SQL and Power BI
 
-✨ Learning through academic and personal projects
+✨ Exploring AI, Data Analytics and Machine Learning
 
 ---
 
 ## 🏆 Skills
 
-- Python
-- SQL
-- Power BI
-- Git & GitHub
-- Problem Solving
-- Teamwork
-- Communication
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-Git-orange?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: **maithilijadhav2006@gmail.com**
+<p>
 
-💼 LinkedIn: **www.linkedin.com/in/maithili-jadhav-047871310**
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:maithilijadhav2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/maithili-jadhav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-### ⭐ "Learning today, building tomorrow." 🚀
+<p align="center">
+
+### ⭐ *"Learning today, building tomorrow."* 🚀
+
+</p>
