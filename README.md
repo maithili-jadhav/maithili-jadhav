@@ -33,19 +33,12 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" /></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" /></p>
 
 ### 🌐 Web Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,php" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48"/>
 </p>
 
 ### ⚙️ Technologies
@@ -58,14 +51,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,eclipse,idea" />
-</p>
-
-### 📊 Data & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,eclipse,androidstudio" />
 </p>
 
 ## 🚀 Featured Projects
