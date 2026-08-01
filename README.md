@@ -51,7 +51,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,googlecolab,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,anaconda" />
 </p>
 
 ## 🚀 Featured Projects
@@ -62,9 +62,15 @@ B.Tech Artificial Intelligence & Data Science Student
 - Implemented real-time monitoring for efficient water management.
 - Built using IoT and web technologies.
 
-**Technologies**
+**Technologies:**
 
-`ESP32` • `JavaScript` • `HTML` • `CSS` • `Firebase`
+**💻 Software Technologies**
+
+HTML | CSS | JavaScript | Java | MySQL | XAMPP
+
+**🔧 Hardware Technologies**
+
+Arduino Uno | Solenoid Valve | Water Flow Sensor
 
 ---
 
