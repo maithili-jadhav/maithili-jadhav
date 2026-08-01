@@ -81,7 +81,7 @@ ESP32 • JavaScript • HTML • CSS • IoT
 
 📧 Email: **maithilijadhav2006@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn profile URL here)*
+💼 LinkedIn: *www.linkedin.com/in/maithili-jadhav-047871310*
 
 ---
 
