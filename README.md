@@ -131,5 +131,5 @@ Arduino Uno | Solenoid Valve | Water Flow Sensor
 
 <p align="center">
 
-###  *"Building skills through curiosity and consistency."* 
+###  Building skills through curiosity and consistency. 
 </p>
