@@ -33,7 +33,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java,python,js" />
 </p>
 
 ### 🌐 Web Technologies
@@ -52,7 +52,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### ⚙️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,xampp,firebase" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" width="48" height="48"/>
 </p>
 
