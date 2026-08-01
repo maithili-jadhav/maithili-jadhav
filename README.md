@@ -86,14 +86,12 @@ Google Maps API | GPS | Location Services
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maithili-jadhav&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-jadhav&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maithili-jadhav&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithili-jadhav&layout=compact&theme=default" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maithili-jadhav&theme=default"/>
-
+  <img src="https://streak-stats.demolab.com?user=maithili-jadhav&theme=default" height="170"/>
 </p>
 
 ---
