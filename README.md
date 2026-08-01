@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="name1.png" alt="Banner" width="100%">
+  <img src="name1.png" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Maithili Jadhav</h1>
+
+<h3 align="center">
+B.Tech Artificial Intelligence & Data Science Student
+</h3>
 # Hi 👋, I'm Maithili Jadhav
 
 ### Artificial Intelligence & Data Science Student | Technology Enthusiast | Exploring Data Analytics & AI
