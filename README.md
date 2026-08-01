@@ -67,6 +67,22 @@ Arduino Uno | Solenoid Valve | Water Flow Sensor
 
 ---
 
+### 📍 Nearby Places App
+
+- Developed an Android application for discovering nearby places using GPS and Google Maps API.
+
+- Implemented real-time location tracking and interactive map navigation.
+
+#### 🛠️ Technologies Used
+
+**📱 Android Development**
+
+Java | Android Studio | XML
+
+**📍 Location & Maps**
+
+Google Maps API | GPS | Location Services
+
 ## 📊 GitHub Statistics
 
 <p align="center">
