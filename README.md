@@ -51,7 +51,7 @@ B.Tech Artificial Intelligence & Data Science Student
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,googlecolab,anaconda" />
 </p>
 
 ## 🚀 Featured Projects
