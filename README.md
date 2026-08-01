@@ -85,9 +85,13 @@ Arduino Uno | Solenoid Valve | Water Flow Sensor
 ## 🏆 Achievements & Learning
 
 ✨ Completed Diploma in Information Technology
+
 ✨ Currently pursuing B.Tech in Artificial Intelligence & Data Science
+
 ✨ Developed IoT-based academic projects
+
 ✨ Building practical skills in Python, SQL, Git and GitHub
+
 ✨ Continuously improving programming and problem-solving skills
 
 ---
@@ -127,6 +131,5 @@ Arduino Uno | Solenoid Valve | Water Flow Sensor
 
 <p align="center">
 
-### ⭐ *"Learning today, building tomorrow."* 🚀
-
+### ⭐ *"Building skills through curiosity and consistency."* 🌟
 </p>
